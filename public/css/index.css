@@ -13,3 +13,10 @@ main h3.title {
 main section abbr {
     color: #25cbd3;
 }
+
+@media screen and (min-width: 992px){
+    .cover-container figure img {
+        width: 40%;
+        display: inline-block;
+    }
+}

@@ -18,3 +18,7 @@ h1.title {
     margin: 40px auto 20px;
 
 }
+
+.text-center {
+    text-align: center;
+}

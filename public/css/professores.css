@@ -1,0 +1,22 @@
+/* estilos focados na pagina professores */
+
+.content-container > div img {
+    width: 98%; 
+    border-radius: 20px;
+    border: 5px double;
+}
+
+.content-container {
+    padding: 20px;
+}
+
+.article-text p {
+    text-align: justify;
+}
+
+@media screen and (min-width: 992px){
+
+    .content-container > div img {
+        width: 50%;
+    }
+}
