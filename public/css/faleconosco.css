@@ -30,3 +30,7 @@ main .contact-form > div [type="radio"],
 main .contact-form > div [type="checkbox"] {
     width: 25px;
 }
+
+main .contact-form > div:nth-child(4) span {
+    color: #25cbd3;
+}
